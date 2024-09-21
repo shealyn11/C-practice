@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vscode\\Nesting_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF25A677-EE7F-42B0-A425-A1E9466203C0}|Nesting_practice\\Nesting_practice.vcxproj|D:\\vscode\\Nesting_practice\\Nesting_practice\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF25A677-EE7F-42B0-A425-A1E9466203C0}|Nesting_practice\\Nesting_practice.vcxproj|solutionrelative:Nesting_practice\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF25A677-EE7F-42B0-A425-A1E9466203C0}|Nesting_practice\\Nesting_practice.vcxproj|D:\\vscode\\Nesting_practice\\Nesting_practice\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF25A677-EE7F-42B0-A425-A1E9466203C0}|Nesting_practice\\Nesting_practice.vcxproj|solutionrelative:Nesting_practice\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF25A677-EE7F-42B0-A425-A1E9466203C0}|Nesting_practice\\Nesting_practice.vcxproj|D:\\vscode\\Nesting_practice\\Nesting_practice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF25A677-EE7F-42B0-A425-A1E9466203C0}|Nesting_practice\\Nesting_practice.vcxproj|solutionrelative:Nesting_practice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF25A677-EE7F-42B0-A425-A1E9466203C0}|Nesting_practice\\Nesting_practice.vcxproj|D:\\vscode\\Nesting_practice\\Nesting_practice\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF25A677-EE7F-42B0-A425-A1E9466203C0}|Nesting_practice\\Nesting_practice.vcxproj|solutionrelative:Nesting_practice\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demo4.c",
+              "DocumentMoniker": "D:\\vscode\\Nesting_practice\\Nesting_practice\\demo4.c",
+              "RelativeDocumentMoniker": "Nesting_practice\\demo4.c",
+              "ToolTip": "D:\\vscode\\Nesting_practice\\Nesting_practice\\demo4.c",
+              "RelativeToolTip": "Nesting_practice\\demo4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-15T12:48:51.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "demo3.c",
+              "DocumentMoniker": "D:\\vscode\\Nesting_practice\\Nesting_practice\\demo3.c",
+              "RelativeDocumentMoniker": "Nesting_practice\\demo3.c",
+              "ToolTip": "D:\\vscode\\Nesting_practice\\Nesting_practice\\demo3.c",
+              "RelativeToolTip": "Nesting_practice\\demo3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-15T12:30:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "demo2.c",
+              "DocumentMoniker": "D:\\vscode\\Nesting_practice\\Nesting_practice\\demo2.c",
+              "RelativeDocumentMoniker": "Nesting_practice\\demo2.c",
+              "ToolTip": "D:\\vscode\\Nesting_practice\\Nesting_practice\\demo2.c",
+              "RelativeToolTip": "Nesting_practice\\demo2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-15T12:18:22.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo1.c",
+              "DocumentMoniker": "D:\\vscode\\Nesting_practice\\Nesting_practice\\demo1.c",
+              "RelativeDocumentMoniker": "Nesting_practice\\demo1.c",
+              "ToolTip": "D:\\vscode\\Nesting_practice\\Nesting_practice\\demo1.c",
+              "RelativeToolTip": "Nesting_practice\\demo1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-15T11:41:54.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

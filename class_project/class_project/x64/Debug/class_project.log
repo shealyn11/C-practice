@@ -1,0 +1,9 @@
+﻿  demo1.c
+  demo2.c
+  demo3.c
+  demo4.c
+  demo5.c
+  demo6.c
+  正在生成代码...
+D:\vscode\class_project\class_project\demo6.c(15,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  class_project.vcxproj -> D:\vscode\class_project\x64\Debug\class_project.exe

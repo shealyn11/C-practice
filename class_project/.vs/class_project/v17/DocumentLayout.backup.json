@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vscode\\class_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo6.c",
+              "DocumentMoniker": "D:\\vscode\\class_project\\class_project\\demo6.c",
+              "RelativeDocumentMoniker": "class_project\\demo6.c",
+              "ToolTip": "D:\\vscode\\class_project\\class_project\\demo6.c",
+              "RelativeToolTip": "class_project\\demo6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-17T14:13:49.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "demo5.c",
+              "DocumentMoniker": "D:\\vscode\\class_project\\class_project\\demo5.c",
+              "RelativeDocumentMoniker": "class_project\\demo5.c",
+              "ToolTip": "D:\\vscode\\class_project\\class_project\\demo5.c",
+              "RelativeToolTip": "class_project\\demo5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-17T13:48:14.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "demo4.c",
+              "DocumentMoniker": "D:\\vscode\\class_project\\class_project\\demo4.c",
+              "RelativeDocumentMoniker": "class_project\\demo4.c",
+              "ToolTip": "D:\\vscode\\class_project\\class_project\\demo4.c",
+              "RelativeToolTip": "class_project\\demo4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-17T13:39:20.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "demo3.c",
+              "DocumentMoniker": "D:\\vscode\\class_project\\class_project\\demo3.c",
+              "RelativeDocumentMoniker": "class_project\\demo3.c",
+              "ToolTip": "D:\\vscode\\class_project\\class_project\\demo3.c",
+              "RelativeToolTip": "class_project\\demo3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-17T13:30:49.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demo2.c",
+              "DocumentMoniker": "D:\\vscode\\class_project\\class_project\\demo2.c",
+              "RelativeDocumentMoniker": "class_project\\demo2.c",
+              "ToolTip": "D:\\vscode\\class_project\\class_project\\demo2.c",
+              "RelativeToolTip": "class_project\\demo2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-17T13:12:11.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "demo1.c",
+              "DocumentMoniker": "D:\\vscode\\class_project\\class_project\\demo1.c",
+              "RelativeDocumentMoniker": "class_project\\demo1.c",
+              "ToolTip": "D:\\vscode\\class_project\\class_project\\demo1.c",
+              "RelativeToolTip": "class_project\\demo1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-17T12:50:35.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

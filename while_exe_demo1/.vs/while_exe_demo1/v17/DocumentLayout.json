@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vscode\\while_exe_demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vscode\\math_practice\\math_practice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|solutionrelative:while_exe_demo1\\demo6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|solutionrelative:while_exe_demo1\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|solutionrelative:while_exe_demo1\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|solutionrelative:while_exe_demo1\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|solutionrelative:while_exe_demo1\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A5E1169-BCD2-417E-8977-4E69183338FF}|while_exe_demo1\\while_exe_demo1.vcxproj|solutionrelative:while_exe_demo1\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo3.c",
+              "DocumentMoniker": "D:\\vscode\\math_practice\\math_practice\\demo3.c",
+              "RelativeDocumentMoniker": "..\\math_practice\\math_practice\\demo3.c",
+              "ToolTip": "D:\\vscode\\math_practice\\math_practice\\demo3.c",
+              "RelativeToolTip": "..\\math_practice\\math_practice\\demo3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-17T06:00:05.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demo6.c",
+              "DocumentMoniker": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo6.c",
+              "RelativeDocumentMoniker": "while_exe_demo1\\demo6.c",
+              "ToolTip": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo6.c",
+              "RelativeToolTip": "while_exe_demo1\\demo6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-14T14:54:18.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "demo5.c",
+              "DocumentMoniker": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo5.c",
+              "RelativeDocumentMoniker": "while_exe_demo1\\demo5.c",
+              "ToolTip": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo5.c",
+              "RelativeToolTip": "while_exe_demo1\\demo5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-14T14:38:14.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "demo4.c",
+              "DocumentMoniker": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo4.c",
+              "RelativeDocumentMoniker": "while_exe_demo1\\demo4.c",
+              "ToolTip": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo4.c",
+              "RelativeToolTip": "while_exe_demo1\\demo4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-14T14:22:17.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "demo3.c",
+              "DocumentMoniker": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo3.c",
+              "RelativeDocumentMoniker": "while_exe_demo1\\demo3.c",
+              "ToolTip": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo3.c",
+              "RelativeToolTip": "while_exe_demo1\\demo3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-14T13:46:21.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "demo2.c",
+              "DocumentMoniker": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo2.c",
+              "RelativeDocumentMoniker": "while_exe_demo1\\demo2.c",
+              "ToolTip": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo2.c",
+              "RelativeToolTip": "while_exe_demo1\\demo2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-14T13:37:33.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "demo1.c",
+              "DocumentMoniker": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo1.c",
+              "RelativeDocumentMoniker": "while_exe_demo1\\demo1.c",
+              "ToolTip": "D:\\vscode\\while_exe_demo1\\while_exe_demo1\\demo1.c",
+              "RelativeToolTip": "while_exe_demo1\\demo1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-14T13:16:43.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
