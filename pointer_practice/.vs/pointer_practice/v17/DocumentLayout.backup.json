@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vscode\\pointer_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|D:\\vscode\\pointer_practice\\pointer_practice\\demo12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|solutionrelative:pointer_practice\\demo12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|D:\\vscode\\pointer_practice\\pointer_practice\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|solutionrelative:pointer_practice\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|D:\\vscode\\pointer_practice\\pointer_practice\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|solutionrelative:pointer_practice\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|D:\\vscode\\pointer_practice\\pointer_practice\\demo6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|solutionrelative:pointer_practice\\demo6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|D:\\vscode\\pointer_practice\\pointer_practice\\demo7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|solutionrelative:pointer_practice\\demo7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|D:\\vscode\\pointer_practice\\pointer_practice\\demo8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|solutionrelative:pointer_practice\\demo8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|D:\\vscode\\pointer_practice\\pointer_practice\\demo9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|solutionrelative:pointer_practice\\demo9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|D:\\vscode\\pointer_practice\\pointer_practice\\demo11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|solutionrelative:pointer_practice\\demo11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|D:\\vscode\\pointer_practice\\pointer_practice\\demo10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|solutionrelative:pointer_practice\\demo10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|D:\\vscode\\pointer_practice\\pointer_practice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|solutionrelative:pointer_practice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|D:\\vscode\\pointer_practice\\pointer_practice\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAFE4E4F-C3A0-4CCC-99E6-C26A8D39CBF7}|pointer_practice\\pointer_practice.vcxproj|solutionrelative:pointer_practice\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo12.c",
+              "DocumentMoniker": "D:\\vscode\\pointer_practice\\pointer_practice\\demo12.c",
+              "RelativeDocumentMoniker": "pointer_practice\\demo12.c",
+              "ToolTip": "D:\\vscode\\pointer_practice\\pointer_practice\\demo12.c",
+              "RelativeToolTip": "pointer_practice\\demo12.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T14:36:21.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "demo10.c",
+              "DocumentMoniker": "D:\\vscode\\pointer_practice\\pointer_practice\\demo10.c",
+              "RelativeDocumentMoniker": "pointer_practice\\demo10.c",
+              "ToolTip": "D:\\vscode\\pointer_practice\\pointer_practice\\demo10.c",
+              "RelativeToolTip": "pointer_practice\\demo10.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T13:45:17.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "demo9.c",
+              "DocumentMoniker": "D:\\vscode\\pointer_practice\\pointer_practice\\demo9.c",
+              "RelativeDocumentMoniker": "pointer_practice\\demo9.c",
+              "ToolTip": "D:\\vscode\\pointer_practice\\pointer_practice\\demo9.c",
+              "RelativeToolTip": "pointer_practice\\demo9.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-25T14:18:20.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "demo8.c",
+              "DocumentMoniker": "D:\\vscode\\pointer_practice\\pointer_practice\\demo8.c",
+              "RelativeDocumentMoniker": "pointer_practice\\demo8.c",
+              "ToolTip": "D:\\vscode\\pointer_practice\\pointer_practice\\demo8.c",
+              "RelativeToolTip": "pointer_practice\\demo8.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-25T13:23:21.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "demo7.c",
+              "DocumentMoniker": "D:\\vscode\\pointer_practice\\pointer_practice\\demo7.c",
+              "RelativeDocumentMoniker": "pointer_practice\\demo7.c",
+              "ToolTip": "D:\\vscode\\pointer_practice\\pointer_practice\\demo7.c",
+              "RelativeToolTip": "pointer_practice\\demo7.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-24T14:38:24.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "demo6.c",
+              "DocumentMoniker": "D:\\vscode\\pointer_practice\\pointer_practice\\demo6.c",
+              "RelativeDocumentMoniker": "pointer_practice\\demo6.c",
+              "ToolTip": "D:\\vscode\\pointer_practice\\pointer_practice\\demo6.c",
+              "RelativeToolTip": "pointer_practice\\demo6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-24T14:03:35.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "demo5.c",
+              "DocumentMoniker": "D:\\vscode\\pointer_practice\\pointer_practice\\demo5.c",
+              "RelativeDocumentMoniker": "pointer_practice\\demo5.c",
+              "ToolTip": "D:\\vscode\\pointer_practice\\pointer_practice\\demo5.c",
+              "RelativeToolTip": "pointer_practice\\demo5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-22T11:26:48.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demo2.c",
+              "DocumentMoniker": "D:\\vscode\\pointer_practice\\pointer_practice\\demo2.c",
+              "RelativeDocumentMoniker": "pointer_practice\\demo2.c",
+              "ToolTip": "D:\\vscode\\pointer_practice\\pointer_practice\\demo2.c",
+              "RelativeToolTip": "pointer_practice\\demo2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-22T07:57:04.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "demo11.c",
+              "DocumentMoniker": "D:\\vscode\\pointer_practice\\pointer_practice\\demo11.c",
+              "RelativeDocumentMoniker": "pointer_practice\\demo11.c",
+              "ToolTip": "D:\\vscode\\pointer_practice\\pointer_practice\\demo11.c",
+              "RelativeToolTip": "pointer_practice\\demo11.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T14:17:20.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "demo4.c",
+              "DocumentMoniker": "D:\\vscode\\pointer_practice\\pointer_practice\\demo4.c",
+              "RelativeDocumentMoniker": "pointer_practice\\demo4.c",
+              "ToolTip": "D:\\vscode\\pointer_practice\\pointer_practice\\demo4.c",
+              "RelativeToolTip": "pointer_practice\\demo4.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswDgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-22T08:27:50.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "demo3.c",
+              "DocumentMoniker": "D:\\vscode\\pointer_practice\\pointer_practice\\demo3.c",
+              "RelativeDocumentMoniker": "pointer_practice\\demo3.c",
+              "ToolTip": "D:\\vscode\\pointer_practice\\pointer_practice\\demo3.c",
+              "RelativeToolTip": "pointer_practice\\demo3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-22T08:15:08.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
