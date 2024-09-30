@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\vscode\\math_practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65A99B12-8F34-446B-AB96-A1F4B4A53248}|math_practice\\math_practice.vcxproj|D:\\vscode\\math_practice\\math_practice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{65A99B12-8F34-446B-AB96-A1F4B4A53248}|math_practice\\math_practice.vcxproj|solutionrelative:math_practice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{65A99B12-8F34-446B-AB96-A1F4B4A53248}|math_practice\\math_practice.vcxproj|D:\\vscode\\math_practice\\math_practice\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65A99B12-8F34-446B-AB96-A1F4B4A53248}|math_practice\\math_practice.vcxproj|solutionrelative:math_practice\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65A99B12-8F34-446B-AB96-A1F4B4A53248}|math_practice\\math_practice.vcxproj|D:\\vscode\\math_practice\\math_practice\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{65A99B12-8F34-446B-AB96-A1F4B4A53248}|math_practice\\math_practice.vcxproj|solutionrelative:math_practice\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65A99B12-8F34-446B-AB96-A1F4B4A53248}|math_practice\\math_practice.vcxproj|D:\\vscode\\math_practice\\math_practice\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{65A99B12-8F34-446B-AB96-A1F4B4A53248}|math_practice\\math_practice.vcxproj|solutionrelative:math_practice\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{65A99B12-8F34-446B-AB96-A1F4B4A53248}|math_practice\\math_practice.vcxproj|D:\\vscode\\math_practice\\math_practice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65A99B12-8F34-446B-AB96-A1F4B4A53248}|math_practice\\math_practice.vcxproj|solutionrelative:math_practice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "demo3.c",
               "DocumentMoniker": "D:\\vscode\\math_practice\\math_practice\\demo3.c",
               "RelativeDocumentMoniker": "math_practice\\demo3.c",
@@ -52,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "demo1.c",
               "DocumentMoniker": "D:\\vscode\\math_practice\\math_practice\\demo1.c",
               "RelativeDocumentMoniker": "math_practice\\demo1.c",

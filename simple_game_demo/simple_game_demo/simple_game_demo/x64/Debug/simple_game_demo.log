@@ -1,0 +1,4 @@
+﻿  demo1.c
+D:\vscode\simple_game_demo\simple_game_demo\demo1.c(17,6): warning C4101: “hurt”: 未引用的局部变量
+D:\vscode\simple_game_demo\simple_game_demo\demo1.c(49,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\vscode\simple_game_demo\simple_game_demo\demo1.c(50,6): error C2082: 形参“hurt”的重定义

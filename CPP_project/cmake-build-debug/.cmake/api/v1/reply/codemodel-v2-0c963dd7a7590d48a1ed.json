@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CPP_project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "day01-bool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-day01-bool-Debug-d8358181355eb05e1713.json",
+					"name" : "day01-bool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "day01-cin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-day01-cin-Debug-0e91d8cd10eab03e5393.json",
+					"name" : "day01-cin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "day01-constant::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-day01-constant-Debug-be986e971002c821fa89.json",
+					"name" : "day01-constant",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "day01-hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-day01-hello-Debug-4eac4bd797cde4bc6f08.json",
+					"name" : "day01-hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "day01-variable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-day01-variable-Debug-6576d0e754e43858a29f.json",
+					"name" : "day01-variable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "puke-practice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-puke-practice-Debug-7caacddfa3d1c0c7befa.json",
+					"name" : "puke-practice",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/vscode/CPP_project/cmake-build-debug",
+		"source" : "D:/vscode/CPP_project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

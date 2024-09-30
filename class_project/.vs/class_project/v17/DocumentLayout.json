@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|solutionrelative:class_project\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BE1196E-7C52-4DBD-A513-36A030A980E5}|class_project\\class_project.vcxproj|D:\\vscode\\class_project\\class_project\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -44,14 +44,14 @@
               "RelativeDocumentMoniker": "class_project\\demo6.c",
               "ToolTip": "D:\\vscode\\class_project\\class_project\\demo6.c",
               "RelativeToolTip": "class_project\\demo6.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-17T14:13:49.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "demo5.c",
               "DocumentMoniker": "D:\\vscode\\class_project\\class_project\\demo5.c",
               "RelativeDocumentMoniker": "class_project\\demo5.c",
@@ -59,11 +59,20 @@
               "RelativeToolTip": "class_project\\demo5.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-17T13:48:14.131Z"
+              "WhenOpened": "2024-09-17T13:48:14.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "demo4.c",
               "DocumentMoniker": "D:\\vscode\\class_project\\class_project\\demo4.c",
               "RelativeDocumentMoniker": "class_project\\demo4.c",
@@ -71,11 +80,12 @@
               "RelativeToolTip": "class_project\\demo4.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-17T13:39:20.617Z"
+              "WhenOpened": "2024-09-17T13:39:20.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "demo3.c",
               "DocumentMoniker": "D:\\vscode\\class_project\\class_project\\demo3.c",
               "RelativeDocumentMoniker": "class_project\\demo3.c",
@@ -87,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "demo2.c",
               "DocumentMoniker": "D:\\vscode\\class_project\\class_project\\demo2.c",
               "RelativeDocumentMoniker": "class_project\\demo2.c",

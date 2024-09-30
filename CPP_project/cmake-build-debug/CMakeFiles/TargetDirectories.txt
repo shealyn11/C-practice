@@ -1,0 +1,8 @@
+D:/vscode/CPP_project/cmake-build-debug/CMakeFiles/day01-bool.dir
+D:/vscode/CPP_project/cmake-build-debug/CMakeFiles/day01-cin.dir
+D:/vscode/CPP_project/cmake-build-debug/CMakeFiles/day01-constant.dir
+D:/vscode/CPP_project/cmake-build-debug/CMakeFiles/day01-hello.dir
+D:/vscode/CPP_project/cmake-build-debug/CMakeFiles/day01-variable.dir
+D:/vscode/CPP_project/cmake-build-debug/CMakeFiles/puke-practice.dir
+D:/vscode/CPP_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/vscode/CPP_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+# ninja log v6
+1	508	7492148953342478	CMakeFiles/CPP_project.dir/main.cpp.obj	74f75b8d3bd001ce
+1	413	7492175159854626	CMakeFiles/test01.dir/test01.cpp.obj	ea1011ebbb844bd9
+3	412	7492150405056557	CMakeFiles/CPP_project.dir/day01-hello.cpp.obj	47e11875ca44c075
+1	359	7492399129799529	build.ninja	57761d00c8588e1
+3	95	7492150650015736	CPP_project.exe	4be81542f6ee200f
+3	401	7492172952336464	CMakeFiles/day01-hello.dir/test01.cpp.obj	4a052794471e1246
+1	438	7492172338101925	CMakeFiles/day01-hello.dir/day01-hello.cpp.obj	7c1ed36d07439e0e
+414	512	7492175163970739	test01.exe	8ff2448b82d8bc24
+7	1656	7492197570420006	CMakeFiles/day01-variable.dir/day01-variable.cpp.obj	41a6bea77cad184c
+1656	1776	7492197586901910	day01-variable.exe	c1c2de4e75473c76
+1	1537	7492197638143023	CMakeFiles/day01-bool.dir/day01-bool.cpp.obj	7a974d36ba2050c9
+1537	1670	7492197653508157	day01-bool.exe	c4a3bd4fb0a899fe
+1	1613	7492200608419857	CMakeFiles/day01-cin.dir/day01-cin.cpp.obj	75f4f1de398eb08d
+1613	1778	7492200624545773	day01-cin.exe	445699d9eab3ba1a
+3	3075	7492400732398361	CMakeFiles/puke-practice.dir/puke-practice.cpp.obj	ed6bc42c2e2e0eff
+3076	3669	7492400763124281	puke-practice.exe	47e1c632e313a3e9
+5	2084	7492402386690399	CMakeFiles/puke-practice.dir/puke-practice.cpp.obj	ed6bc42c2e2e0eff
+2085	2215	7492402407493805	puke-practice.exe	47e1c632e313a3e9
+6	1735	7492795375617727	CMakeFiles/puke-practice.dir/puke-practice.cpp.obj	ed6bc42c2e2e0eff
+1736	1864	7492795392905987	puke-practice.exe	47e1c632e313a3e9

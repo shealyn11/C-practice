@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\vscode\\algorithm_practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59FA2A68-707D-4DAD-908C-5A625784C5BE}|algorithm_pratctice\\algorithm_pratctice.vcxproj|D:\\vscode\\algorithm_practice\\algorithm_pratctice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59FA2A68-707D-4DAD-908C-5A625784C5BE}|algorithm_pratctice\\algorithm_pratctice.vcxproj|solutionrelative:algorithm_pratctice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59FA2A68-707D-4DAD-908C-5A625784C5BE}|algorithm_pratctice\\algorithm_pratctice.vcxproj|D:\\vscode\\algorithm_practice\\algorithm_pratctice\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59FA2A68-707D-4DAD-908C-5A625784C5BE}|algorithm_pratctice\\algorithm_pratctice.vcxproj|solutionrelative:algorithm_pratctice\\demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{59FA2A68-707D-4DAD-908C-5A625784C5BE}|algorithm_pratctice\\algorithm_pratctice.vcxproj|D:\\vscode\\algorithm_practice\\algorithm_pratctice\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59FA2A68-707D-4DAD-908C-5A625784C5BE}|algorithm_pratctice\\algorithm_pratctice.vcxproj|solutionrelative:algorithm_pratctice\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FA2A68-707D-4DAD-908C-5A625784C5BE}|algorithm_pratctice\\algorithm_pratctice.vcxproj|D:\\vscode\\algorithm_practice\\algorithm_pratctice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59FA2A68-707D-4DAD-908C-5A625784C5BE}|algorithm_pratctice\\algorithm_pratctice.vcxproj|solutionrelative:algorithm_pratctice\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "demo4.c",
               "DocumentMoniker": "D:\\vscode\\algorithm_practice\\algorithm_pratctice\\demo4.c",
               "RelativeDocumentMoniker": "algorithm_pratctice\\demo4.c",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "demo3.c",
               "DocumentMoniker": "D:\\vscode\\algorithm_practice\\algorithm_pratctice\\demo3.c",
               "RelativeDocumentMoniker": "algorithm_pratctice\\demo3.c",
@@ -64,26 +64,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "demo2.c",
               "DocumentMoniker": "D:\\vscode\\algorithm_practice\\algorithm_pratctice\\demo2.c",
               "RelativeDocumentMoniker": "algorithm_pratctice\\demo2.c",
               "ToolTip": "D:\\vscode\\algorithm_practice\\algorithm_pratctice\\demo2.c",
               "RelativeToolTip": "algorithm_pratctice\\demo2.c",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-21T13:10:15.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "demo1.c",
               "DocumentMoniker": "D:\\vscode\\algorithm_practice\\algorithm_pratctice\\demo1.c",
               "RelativeDocumentMoniker": "algorithm_pratctice\\demo1.c",
               "ToolTip": "D:\\vscode\\algorithm_practice\\algorithm_pratctice\\demo1.c",
               "RelativeToolTip": "algorithm_pratctice\\demo1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-21T04:28:54.631Z",
               "EditorCaption": ""
